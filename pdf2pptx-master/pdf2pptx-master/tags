@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/45968ef/
+adjusted	pdf2pptx.py	/^                adjusted = image.rotate(270, expand=True)$/;"	v
+date	pdf2pptx.py	/^date = '%d-%d-%d' % (dt_name.year,dt_name.month,dt_name.day)$/;"	v
+dt_name	pdf2pptx.py	/^dt_name = datetime.datetime.now()$/;"	v
+height	pdf2pptx.py	/^            height = image.height$/;"	v
+image	pdf2pptx.py	/^            image = Image.open(jpg_file)$/;"	v
+jpg_file	pdf2pptx.py	/^            jpg_file = "jpgs\/%s-(%d).jpg" % (filename,index)$/;"	v
+left	pdf2pptx.py	/^            left = top = 0$/;"	v
+pages	pdf2pptx.py	/^        pages = convert_from_path('source_files\/' + filename, 500)$/;"	v
+prs	pdf2pptx.py	/^        prs = Presentation()$/;"	v
+slide	pdf2pptx.py	/^            slide = prs.slides.add_slide(title_slide_layout)$/;"	v
+title_slide_layout	pdf2pptx.py	/^            title_slide_layout = prs.slide_layouts[0]$/;"	v
+width	pdf2pptx.py	/^            width = image.width$/;"	v
+使用	README.md	/^# 使用$/;"	c
+弊端	README.md	/^# 弊端$/;"	c
